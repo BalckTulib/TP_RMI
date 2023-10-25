@@ -44,7 +44,7 @@ To get started with this project, ensure that you have the following:
 
 - **🧙‍♂️ Java Development Kit (JDK):** Download and install the latest JDK from Oracle's website (https://www.oracle.com/java/technologies/javase-downloads.html).
 
-To run the application, ensure that you have Java Development Kit (JDK) 8 or above installed on your system. Additionally, you will need to set up your Java IDE to support RMI.
+To run the application, you will need to set up your Java IDE to support RMI.
 
 1. Clone the repository using the following command: git clone https://github.com/BalckTulib/TP_RMI.git
 
