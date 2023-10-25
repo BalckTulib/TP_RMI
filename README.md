@@ -59,5 +59,9 @@ To run the application, ensure that you have Java Development Kit (JDK) 8 or abo
 Click the image below to watch the video demonstration:
 
 
-https://github.com/BalckTulib/TP_RMI/assets/106248629/a7baeff1-80fa-43a9-a25a-e87cc37503f2
+
+https://github.com/BalckTulib/TP_RMI/assets/106248629/24fd36fc-1339-4ae6-9e32-0c10d42c3479
+
+
+
 
